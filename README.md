@@ -1,5 +1,5 @@
 # FlaskBlog_Tutorial
-FlaskBlog_Tutorial from https://www.youtube.com/watch?v=MwZwr5Tvyxo&amp;list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&amp;index=1&amp;ab_channel=CoreySchafer
+FlaskBlog Tutorial from https://www.youtube.com/watch?v=MwZwr5Tvyxo&amp;list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&amp;index=1&amp;ab_channel=CoreySchafer
 
 To run the application, you will need to set some environment variables:
 SECRET_KEY - secret key for the flask application
